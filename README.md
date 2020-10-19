@@ -11,6 +11,7 @@
 [![DUB license](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/harttle/liquidjs/blob/master/LICENSE)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#commits)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/harttle/liquidjs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSelz%2Fliquidjs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSelz%2Fliquidjs?ref=badge_shield)
 
 A simple, expressive, safe and [Shopify][shopify/liquid] compatible template engine in pure JavaScript.
 **The purpose of this repo** is to provide a standard Liquid implementation for the JavaScript community so that [Jekyll sites](https://jekyllrb.com), [Github Pages](https://pages.github.com/) and [Shopify templates](https://themes.shopify.com/) can be ported to Node.js without pain.
@@ -117,3 +118,7 @@ Want to contribute? see [Contribution Guidelines][contribution]. Thanks goes to 
 [oc]: https://opencollective.com/liquidjs/
 [contribution]: https://liquidjs.com/tutorials/contribution-guidelines.html
 [financial-support]: https://liquidjs.com/tutorials/contribution-guidelines.html#Financial-Support
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSelz%2Fliquidjs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSelz%2Fliquidjs?ref=badge_large)
